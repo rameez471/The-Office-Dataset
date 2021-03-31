@@ -1,2 +1,7 @@
 # The Office Dataset
- That's what Data said
+Few points summed up from data
+* As expected season 5(with the highest number of episodes) had the overall highest number of lines. Season 5 also includes the most watched episode of the show - “Stress Relief” which aired on NBC after the broadcast of Super Bowl XLIII, making it the only episode to reach over 20 million viewers.
+* Episodes having total number of lines or scenes above the 75th percentile value of total lines(>323 lines) or total scenes(>52 scenes) across all episodes throughout the show generally tend to have ratings >= show’s median rating of 8.2
+* Out of the top 5 characters(Michael,Dwight,Jim,Pam,Andy) with the overall highest number of lines and scenes — whenever Andy had high number of lines/scenes in an episode the ratings tend to drop. Season 8's low ratings can be linked to Andy’s major screen presence, considering occurrence of his highest number of lines and scenes peak compared to other seasons.
+* Season 8 and 9  saw the highest percent of episodes directed/written by non-regular directors/writers(who directed/wrote < 6 episodes-length of season 1).
+* The show’s last two seasons failed to cash on Ed Helms’(Andy) The Hangover film series popularity(reduced Andy to a mere caricature while trying to portray him as Michael’s replacement). In addition to Michael’s absence, the scattered story arcs and introduction of offbeat characters(Robert California, Nellie Bertram, Nate, Val, Clark, Pete) did not favor the show’s ratings.
